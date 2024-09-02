@@ -1,4 +1,4 @@
-We present below the python codes used each project.
+We present below the codes used for each project using BeautifulSoup package in Python.
 
 
 **Project 1**: In this project, we scrapped the Pros and the Cons sections of the text reviews of IT companies posted from March 2020 till September 2022 from Glassdoor.com.
