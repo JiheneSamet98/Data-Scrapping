@@ -8,30 +8,30 @@ The data point sextrated are the following:
   
   - employees situation
 
-  - the review title
+  - review title
   
-  - the date of the review
+  - date of the review
 
-  - the Pros section of the review
+  - pros section of the review
 
-  - the Cons section of the review
+  - cons section of the review
   
-  - the job title of the current/former employee
+  - job title of the current/former employee
   
-  - the location
+  - location
 
 
 
 **Project 2:** In this project, we scraped a children’s book’ information from Amazon. Which we scraped all the reviews details. Those details are the following: 
 
-- the book title
+- book title
 
-- the username
+- username
 
-- the date of the review
+- date of the review
 
-- the title of the review
+- title of the review
 
-- the rating
+- rating
 
-- the content of the review
+- content of the review
