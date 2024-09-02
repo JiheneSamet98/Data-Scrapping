@@ -1,4 +1,4 @@
-We present below the python codes used every project.
+We present below the python codes used each project.
 
 
 **Project 1**: In this project, we scrapped the Pros and the Cons sections of the text reviews of IT companies posted from March 2020 till September 2022 from Glassdoor.com.
@@ -28,9 +28,10 @@ The data point sextrated are the following:
 
 - the username
 
-the date of the review
+- the date of the review
 
-the title of the review
+- the title of the review
 
-the rating
-the content of the review
+- the rating
+
+- the content of the review
